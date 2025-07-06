@@ -21,6 +21,10 @@
 
 website: [V6-Dooring](https://v6.dooring.vip)
 
+🎉福利🎉: 最近基于nextjs实现的多维表格正式上线, 前100名用户仅需399元, 感兴趣可以参考体验一下.
+
+- 多维表格编辑器: http://mute.turntip.cn
+
 Related products:
 
 - [Dooring-Saas](https://dooring.vip)
